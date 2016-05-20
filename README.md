@@ -19,6 +19,11 @@ Route::post('/save','CorteController@saveimage');
 
 resources/views/cortes/layout.blade.php
 
+## Autor
+
+fredy mauricio garcia mona
+maurigiogmona@gmail.com
+
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+[MIT license](http://opensource.org/licenses/MIT).
