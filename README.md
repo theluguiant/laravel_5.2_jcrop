@@ -22,7 +22,8 @@ resources/views/cortes/layout.blade.php
 ## Autor
 
 fredy mauricio garcia mona
-maurigiogmona@gmail.com
+
+mauriciogmona@gmail.com
 
 ## License
 
